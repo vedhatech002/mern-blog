@@ -9,7 +9,7 @@ const Header = () => {
 
   return (
     <header>
-      <Navbar className="border-b-2 px-8 py-3">
+      <Navbar className="border-b-2 py-3">
         <Link
           to={"/"}
           className="self-center whitespace-nowrap text-sm sm:text-xl font-semibold dark:text-white"

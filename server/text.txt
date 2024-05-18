@@ -1,0 +1,3 @@
+McuZOI4JKE7OCkYP
+vijayavedhasekaran2002
+mongodb+srv://vijayavedhasekaran2002:McuZOI4JKE7OCkYP@cluster0.whqykth.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
